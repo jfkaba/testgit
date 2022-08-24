@@ -1,0 +1,2 @@
+fonction classe
+def intit --
