@@ -1,2 +1,5 @@
 fonction classe
-def intit --
+def intit
+
+test 2
+
