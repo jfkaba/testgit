@@ -1,7 +1,5 @@
-fonction classe
-def intit
-
-test 2
-test 3
-test 4
-test 5
+class lol():
+def __init__(self):
+self.lol=lol
+self.test=test
+self.age=2
